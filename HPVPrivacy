@@ -1,99 +1,63 @@
-Privacy Policy for "HPV"
-Last Updated: October 27, 2023
+HPV Privacy Policy
+1. Information We Collect
+When you use this application, we may collect the following information:
 
-[Your Company Name] ("we," "our," or "us") developed the "HPV" app (the "App") as a [Free/Freemium] app. This SERVICE is provided by us at no cost and is intended for use as is.
+(1). Information You Provide Voluntarily
+   - Photos and videos you import and save (stored locally on your device only, not uploaded to any server).
+   - App password, hidden space content, and icon settings.
 
-This Privacy Policy is designed to help you understand how we collect, use, disclose, and safeguard your information when you use our App. We are committed to protecting your privacy and your personal data.
+(2). Device Permissions and Functional Use
+   - Photo Library Access: To import and save photos and videos.
+   - Camera and Microphone Access: For capturing photos and recording videos, enabled only when you choose to use it.
+   - Face ID/Touch ID: For authentication and security protection.
+   - Location Access: Used only when you enable related features, no background tracking.
+   - Network Access: For in-app purchases (IAP) and necessary service requests.
 
-By choosing to use our App, you agree to the collection and use of information in relation to this policy. The information we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+(3). Automatically Collected Information
+   - Device information (such as model, OS version, unique device identifier).
+   - App usage logs (such as crash reports, used only to improve user experience).
 
-1. Information We Collect and How We Use It
+Important Notice:
+- Your photos and videos remain stored on your device and are never uploaded, shared, or sold.
+- Currently, the app does not integrate any advertising SDKs.
 
-We collect information to provide better services to our users. The types of information we collect depend on how you use our App.
+2. How We Use Information
+The collected information is used for the following purposes:
+- To provide import, storage, and security features for photos and videos.
+- To support security features such as app password, Face ID authentication, hidden space, and intruder alerts.
+- To process and verify in-app purchases (IAP).
+- To improve product performance and enhance user experience.
 
-A. Information You Provide to Us
+3. Data Storage and Protection
+- Your photos, videos, and private data are stored only on your local device and are not uploaded to any server.
+- The app uses system-level encryption and security measures (such as Face ID and password protection) to safeguard your data.
+- If you uninstall the app, all related data will be deleted unless you have backed it up manually.
 
-In-App Purchases: Our App uses Apple's In-App Purchase system for purchasing premium features. We do not process or store any payment information such as credit card numbers. All payments are processed and managed entirely by Apple. We only receive a confirmation of your purchase to activate the corresponding service within our App.
+4. Third-Party Services
+- This app may use Apple's in-app purchase (IAP) services for payment and verification.
+- The app does not currently use third-party advertising or analytics SDKs. If this changes in the future, we will update this Privacy Policy and notify you.
 
-B. Information Collected Through App Functionality (With Your Permission)
-We request certain permissions to enable core features of our App. You can revoke these permissions at any time in your device's settings.
+5. Your Rights
+In accordance with applicable laws (including China’s Personal Information Protection Law, the California Consumer Privacy Act (CCPA), and the EU General Data Protection Regulation (GDPR)), you have the following rights:
+- Right of Access: You can view and access data stored in the app.
+- Right of Rectification: You can modify or delete files and settings stored in the app.
+- Right of Deletion: You can uninstall the app or clear data within the app at any time.
+- Right to Restrict Processing (GDPR): You may limit how we process your data.
+- Right to Withdraw Consent: You may revoke permissions (e.g., photo library, location, Face ID) in your device settings at any time.
 
-Photos & Camera Permission: If you grant us access to your photos and camera, we will process images or videos you choose to upload or capture directly within the App. This data is processed locally on your device for the specific function you initiate (e.g., attaching a photo to a record) and is not automatically uploaded to our servers unless a cloud-sync feature is explicitly offered and enabled by you.
+6. Children’s Privacy
+This app is not intended for children under the age of 13 (as required by COPPA in the U.S.) or under the age of 16 (as required by GDPR in the EU).
+If we become aware that we have inadvertently collected information from a minor, we will take immediate steps to delete it.
 
-Microphone Permission: If you grant us access to your microphone, we will process audio recordings you make. This data is processed locally on your device for the specific function you initiate (e.g., creating a voice note) and is not automatically uploaded to our servers unless a cloud-sync feature is explicitly offered and enabled by you.
+7. International Users
+- For Users in China: We comply with the Personal Information Protection Law (PIPL).
+- For Users in the United States: We comply with the California Consumer Privacy Act (CCPA).
+- For Users in the European Union: We comply with the General Data Protection Regulation (GDPR) and ensure proper safeguards for data processing and cross-border transfers.
 
-C. Information Collected Automatically
-
-Usage Data & Diagnostics: We may collect certain information automatically about your device and how you interact with the App. This includes your device type, operating system version, unique device identifiers (e.g., IDFA, Advertising Identifier), IP address, mobile network information, and data about your use of features (e.g., session length, buttons tapped). We use this data to:
-
-Ensure the stable operation and security of our Service.
-
-Analyze broad usage trends to diagnose problems and improve the App.
-
-Perform analytics and measurement to understand how our Service is used.
-
-Advertising:
-
-Our App integrates third-party advertising partners (such as Google AdMob) to display advertisements.
-
-These partners may collect information including your Advertising Identifier (IDFA), IP address, and interaction with ads to serve personalized ads (also known as "interest-based advertising") and measure ad performance.
-
-You can opt-out of personalized advertising on iOS devices by going to Settings > Privacy & Security > Tracking and disabling "Allow Apps to Request to Track." This will prevent our advertising partners from using your data for targeted ads.
-
-We also show non-personalized ads.
-
-2. Legal Basis for Processing (For EEA and UK Users)
-If you are located in the European Economic Area (EEA) or the UK, our legal basis for collecting and using your information is:
-
-Your Consent: For features that require permission (Camera, Microphone), we rely on your consent.
-
-Performance of a Contract: To provide you with the services you request, such as fulfilling an in-app purchase.
-
-Legitimate Interests: For operations like analytics, security, and fraud prevention, where our interests are not overridden by your data protection rights.
-
-3. Data Sharing and Disclosure
-We may share your information in the following situations:
-
-With Service Providers: We employ third-party companies and individuals to facilitate our Service (e.g., analytics providers, advertising networks). These third parties have access to your information only to perform specific tasks on our behalf and are obligated not to disclose or use it for any other purpose.
-
-For Legal Reasons: We may disclose your information if required to do so by law or in response to valid requests by public authorities (e.g., a court or a government agency).
-
-We do not sell your personal data.
-
-4. Data Retention
-We will retain your information only for as long as is necessary for the purposes set out in this policy, to comply with our legal obligations, resolve disputes, and enforce our policies.
-
-5. Your Data Rights
-Depending on your location, you may have the following rights regarding your personal data:
-
-Access: The right to know what personal data we hold about you.
-
-Rectification: The right to have inaccurate data corrected.
-
-Erasure ("Right to be Forgotten"): The right to request the deletion of your data.
-
-Restriction of Processing: The right to request a temporary halt to the processing of your data.
-
-Data Portability: The right to receive your data in a structured, machine-readable format.
-
-Objection: The right to object to processing based on legitimate interests, including profiling for direct marketing.
-
-Withdraw Consent: Where we rely on consent, you can withdraw it at any time.
-
-To exercise any of these rights, please contact us using the details in the "Contact Us" section.
-
-6. International Data Transfers
-Your information may be processed in countries where our service providers are located, which may have data protection laws that are different from your country. We ensure that appropriate safeguards, such as Standard Contractual Clauses approved by the European Commission, are in place to protect your data when it is transferred internationally.
-
-7. Children's Privacy
-Our App is not intended for children under the age of 13 (or 16 in the EEA/UK). We do not knowingly collect personally identifiable information from children. If we discover that a child has provided us with personal information, we will immediately delete it. If you are a parent or guardian and believe your child has provided us with information, please contact us.
-
-8. Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date. You are advised to review this policy periodically for any changes.
+8. Updates to This Privacy Policy
+We may update this Privacy Policy from time to time to reflect changes in our services or legal requirements. Updates will be published in the app and will take effect immediately.
 
 9. Contact Us
-If you have any questions or suggestions about this Privacy Policy, or wish to exercise your data rights, do not hesitate to contact us at:
+If you have any questions regarding this Privacy Policy or personal data protection, please contact us:
 
-Email: [Your Support Email Address]
-
-Website: [Your Company Website, if applicable]
+- Email: yzhizhen@qq.com
